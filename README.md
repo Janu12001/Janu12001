@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m Currently Preparing For Placements.<br>🌱 I’m currently Exploring My FULL STACK WEB DEVELOPMENT.<br>⚡ I'm passionate to work on FULL STACK Projects.<br>💬 Ask me about Exciting projects to work on.<br>😄 Pronouns: He/His.
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGj-Tmw5C1-Ee9zkqvPgTwsYudHBQQO1tEdg&usqp=CAU
+
 
 
 # 🧠 DSA  Practice:
