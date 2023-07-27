@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janu</h1>
-<h3 align="center">A passionate Coder and Full Stack Web Developer</h3>
+<h3 align="center" color= "radical" >A passionate Coder and Full Stack Web Developer</h3>
 
 
 
